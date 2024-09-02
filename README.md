@@ -28,3 +28,5 @@ I created this list with the help of several people in the Data Hackers communit
 20. [Kesci](https://www.kesci.com/home/competition)
 21. [Halite](https://halite.io/)
 22. [Codi Game](https://www.codingame.com/multiplayer/bot-programming/coders-strike-back)
+23. [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/)
+24. [Devpost](https://devpost.com/hackathons)
